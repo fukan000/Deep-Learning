@@ -126,6 +126,7 @@ plt.xlabel("Population of City (10,000s)")
 plt.ylabel("Profit ($10,000")
 plt.title("Profit Prediction")
 
+
 # plt.show()
 
 # Predictions

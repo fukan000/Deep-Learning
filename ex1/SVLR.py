@@ -127,7 +127,7 @@ plt.ylabel("Profit ($10,000")
 plt.title("Profit Prediction")
 
 
-# plt.show()
+plt.show()
 
 # Predictions
 ########################################################################
